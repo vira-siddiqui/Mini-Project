@@ -1,0 +1,65 @@
+/* ----------------------------------
+Foodu - Food & Restaurant 
+Author: Vira Sohail
+
+Main Font    : Jost
+Main Color   : #826a45
+
+-------------------------------------
+
+[Typography]
+
+Body copy:    15px 'Jost', sans-serif
+Header:     36px 'Belleza', sans-serif
+Input, textarea:  16px 'Jost', sans-serif
+Sidebar heading:  22px 'Jost', sans-serif
+
+>>> TABLE OF CONTENTS:
+=======================
+        
+    01. default css
+        - Animations
+        - General
+        - Section Title
+        - Video Button
+        - Typography
+        - Tables
+        - Forms
+        - Buttons
+        - Pagination
+        - Colors
+        - Accordion
+        - Tabs
+    02. Preloader
+    03 Navbar
+        - Navbar Default
+        - Navbar Box
+        - Navbar Sticky
+        - Navbar Transparent
+    04. Banner
+        - Banner Slide
+        - Banner Zoom
+        - Banner Fixed
+	05. About
+    06. Food Menu
+        - Style 
+    07. Gallery
+    08. Chef
+	09. Reservation
+        - Style
+    10. Testimonials
+    11. Partners
+    12. Opening Hours
+    13. Blog
+        - Standard
+        - Grid
+    14. Error 404
+    15. Footer
+    16. PHP Contact Form
+    17. Others
+
+*/
+
+/*
+** General Styles for HTML tags
+*/
